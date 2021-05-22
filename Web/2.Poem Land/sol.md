@@ -1,0 +1,1 @@
+Hint: do path traversal to understand the folder structure of the server (use approiate GET query in the url).
